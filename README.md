@@ -62,15 +62,15 @@ src/
 
 ### Cursor Tracking
 
-![Cursor tracking mockup](prototypes/figma/Cursor%20tracking%20mockup.png)
+![Cursor tracking mockup](prototypes/figma/cursor-tracking-mockup.png)
 
 ### Blink Interaction Flow
 
-![Blink interaction flow](prototypes/figma/blink%20flow%20%28interaction%20flow%29.png)
+![Blink interaction flow](prototypes/figma/blink-interaction-flow.png)
 
 ### Gaze Hover
 
-![Gaze hover prototype](prototypes/figma/gaze%20hover.png)
+![Gaze hover prototype](prototypes/figma/gaze-hover.png)
 
 ## Getting Started
 
